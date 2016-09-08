@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="explosionA.png">
+	<SubTexture name="explosionA01.png" x="0" y="103" width="24" height="21"/>
+	<SubTexture name="explosionA02.png" x="0" y="30" width="26" height="24"/>
+	<SubTexture name="explosionA03.png" x="0" y="0" width="33" height="28"/>
+	<SubTexture name="explosionA04.png" x="0" y="56" width="24" height="21"/>
+	<SubTexture name="explosionA05.png" x="0" y="79" width="24" height="22"/>
+</TextureAtlas>

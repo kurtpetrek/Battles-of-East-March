@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="bloodA.png">
+	<SubTexture name="blood1.png" x="28" y="108" width="6" height="7"/>
+	<SubTexture name="blood2.png" x="28" y="85" width="19" height="21"/>
+	<SubTexture name="blood3.png" x="0" y="0" width="29" height="39"/>
+	<SubTexture name="blood4.png" x="0" y="85" width="26" height="36"/>
+	<SubTexture name="blood5.png" x="0" y="41" width="28" height="42"/>
+</TextureAtlas>

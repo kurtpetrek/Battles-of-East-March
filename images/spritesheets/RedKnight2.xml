@@ -1,0 +1,32 @@
+<TextureAtlas imagePath="RedKnight2.png">
+	<SubTexture name="RedKnight2Attack01.png" x="135" y="273" width="55" height="64"/>
+	<SubTexture name="RedKnight2Attack02.png" x="72" y="362" width="60" height="62"/>
+	<SubTexture name="RedKnight2Attack03.png" x="79" y="0" width="58" height="62"/>
+	<SubTexture name="RedKnight2Attack04.png" x="243" y="0" width="48" height="61"/>
+	<SubTexture name="RedKnight2Attack05.png" x="243" y="63" width="46" height="61"/>
+	<SubTexture name="RedKnight2Attack06.png" x="193" y="62" width="48" height="61"/>
+	<SubTexture name="RedKnight2Attack07.png" x="134" y="362" width="55" height="61"/>
+	<SubTexture name="RedKnight2Attack08.png" x="193" y="203" width="50" height="63"/>
+	<SubTexture name="RedKnight2Attack09.png" x="74" y="138" width="60" height="67"/>
+	<SubTexture name="RedKnight2Attack10.png" x="74" y="67" width="60" height="69"/>
+	<SubTexture name="RedKnight2Attack11.png" x="74" y="207" width="59" height="68"/>
+	<SubTexture name="RedKnight2Attack12.png" x="69" y="432" width="62" height="65"/>
+	<SubTexture name="RedKnight2Attack13.png" x="135" y="273" width="55" height="64"/>
+	<SubTexture name="RedKnight2Fall01.png" x="136" y="64" width="55" height="67"/>
+	<SubTexture name="RedKnight2Fall02.png" x="192" y="133" width="50" height="68"/>
+	<SubTexture name="RedKnight2Fall03.png" x="0" y="432" width="67" height="69"/>
+	<SubTexture name="RedKnight2Fall04.png" x="0" y="0" width="77" height="65"/>
+	<SubTexture name="RedKnight2Fall05.png" x="0" y="296" width="70" height="73"/>
+	<SubTexture name="RedKnight2Fall06.png" x="0" y="67" width="72" height="77"/>
+	<SubTexture name="RedKnight2Fall07.png" x="0" y="146" width="72" height="77"/>
+	<SubTexture name="RedKnight2Fall08.png" x="0" y="225" width="72" height="69"/>
+	<SubTexture name="RedKnight2Fall09.png" x="0" y="371" width="69" height="59"/>
+	<SubTexture name="RedKnight2Walk01.png" x="72" y="296" width="61" height="64"/>
+	<SubTexture name="RedKnight2Walk02.png" x="133" y="426" width="56" height="63"/>
+	<SubTexture name="RedKnight2Walk03.png" x="192" y="273" width="52" height="62"/>
+	<SubTexture name="RedKnight2Walk04.png" x="191" y="339" width="54" height="60"/>
+	<SubTexture name="RedKnight2Walk05.png" x="136" y="133" width="54" height="61"/>
+	<SubTexture name="RedKnight2Walk06.png" x="139" y="0" width="54" height="60"/>
+	<SubTexture name="RedKnight2Walk07.png" x="191" y="401" width="53" height="62"/>
+	<SubTexture name="RedKnight2Walk08.png" x="135" y="207" width="56" height="64"/>
+</TextureAtlas>

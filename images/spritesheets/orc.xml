@@ -1,0 +1,36 @@
+<TextureAtlas imagePath="orc.png">
+	<SubTexture name="OrcAttackWest1.png" x="206" y="343" width="54" height="65"/>
+	<SubTexture name="OrcAttackWest2.png" x="144" y="79" width="58" height="66"/>
+	<SubTexture name="OrcAttackWest3.png" x="147" y="416" width="55" height="66"/>
+	<SubTexture name="OrcAttackWest4.png" x="207" y="79" width="54" height="75"/>
+	<SubTexture name="OrcAttackWest5.png" x="147" y="147" width="58" height="78"/>
+	<SubTexture name="OrcAttackWest6.png" x="144" y="0" width="62" height="77"/>
+	<SubTexture name="OrcAttackWest7.png" x="0" y="418" width="72" height="71"/>
+	<SubTexture name="OrcAttackWest8.png" x="261" y="410" width="52" height="83"/>
+	<SubTexture name="OrcAttackWest9.png" x="262" y="293" width="51" height="74"/>
+    <SubTexture name="OrcAttackWest10.png" x="146" y="274" width="65" height="67"/>
+	<SubTexture name="OrcAttackWest11.png" x="82" y="0" width="59" height="68"/>
+	<SubTexture name="OrcAttackWest12.png" x="207" y="156" width="54" height="68"/>
+	<SubTexture name="OrcAttackWest13.png" x="213" y="226" width="54" height="65"/>
+	<SubTexture name="OrcFallWest1.png" x="208" y="0" width="54" height="65"/>
+	<SubTexture name="OrcFallWest2.png" x="147" y="343" width="57" height="71"/>
+	<SubTexture name="OrcFallWest3.png" x="79" y="75" width="63" height="75"/>
+	<SubTexture name="OrcFallWest4.png" x="76" y="198" width="69" height="74"/>
+	<SubTexture name="OrcFallWest5.png" x="0" y="343" width="73" height="73"/>
+	<SubTexture name="OrcFallWest6.png" x="74" y="418" width="71" height="78"/>
+	<SubTexture name="OrcFallWest7.png" x="0" y="198" width="74" height="79"/>
+	<SubTexture name="OrcFallWest8.png" x="0" y="0" width="80" height="73"/>
+	<SubTexture name="OrcFallWest9.png" x="76" y="274" width="68" height="63"/>
+    <SubTexture name="OrcFallWest10.png" x="75" y="343" width="70" height="64"/>
+	<SubTexture name="OrcFallWest11.png" x="0" y="279" width="74" height="62"/>
+	<SubTexture name="OrcFallWest12.png" x="0" y="75" width="77" height="62"/>
+	<SubTexture name="OrcFallWest13.png" x="0" y="139" width="75" height="57"/>
+	<SubTexture name="OrcRunningWest1.png" x="263" y="67" width="51" height="67"/>
+	<SubTexture name="OrcRunningWest2.png" x="315" y="272" width="45" height="66"/>
+	<SubTexture name="OrcRunningWest3.png" x="264" y="0" width="48" height="65"/>
+	<SubTexture name="OrcRunningWest4.png" x="269" y="204" width="50" height="66"/>
+	<SubTexture name="OrcRunningWest5.png" x="204" y="416" width="55" height="66"/>
+	<SubTexture name="OrcRunningWest6.png" x="263" y="136" width="50" height="66"/>
+	<SubTexture name="OrcRunningWest7.png" x="315" y="340" width="45" height="66"/>
+	<SubTexture name="OrcRunningWest8.png" x="314" y="0" width="48" height="65"/>
+</TextureAtlas>

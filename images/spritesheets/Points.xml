@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="Points.png">
+	<SubTexture name="10Points.png" x="0" y="35" width="29" height="15"/>
+	<SubTexture name="20Points.png" x="31" y="0" width="29" height="15"/>
+	<SubTexture name="30Points.png" x="31" y="17" width="29" height="15"/>
+	<SubTexture name="40Points.png" x="0" y="17" width="29" height="16"/>
+	<SubTexture name="50Points.png" x="0" y="0" width="29" height="15"/>
+</TextureAtlas>

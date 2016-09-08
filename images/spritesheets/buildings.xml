@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="buildings.png">
+	<SubTexture name="CastleBig.png" x="0" y="0" width="391" height="429"/>
+	<SubTexture name="CastleBuilding.png" x="393" y="0" width="257" height="347"/>
+	<SubTexture name="House.png" x="652" y="0" width="237" height="256"/>
+	<SubTexture name="House2.png" x="652" y="258" width="227" height="224"/>
+</TextureAtlas>

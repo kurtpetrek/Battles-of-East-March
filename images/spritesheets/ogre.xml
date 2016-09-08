@@ -1,0 +1,32 @@
+<TextureAtlas imagePath="ogre.png">
+	<SubTexture name="OgreAttackingWest1.png" x="166" y="843" width="66" height="86"/>
+	<SubTexture name="OgreAttackingWest2.png" x="0" y="933" width="70" height="87"/>
+	<SubTexture name="OgreAttackingWest3.png" x="96" y="357" width="69" height="91"/>
+	<SubTexture name="OgreAttackingWest4.png" x="94" y="456" width="75" height="99"/>
+	<SubTexture name="OgreAttackingWest5.png" x="83" y="842" width="79" height="97"/>
+	<SubTexture name="OgreAttackingWest6.png" x="0" y="546" width="90" height="92"/>
+	<SubTexture name="OgreAttackingWest7.png" x="94" y="559" width="70" height="97"/>
+	<SubTexture name="OgreAttackingWest8.png" x="174" y="90" width="59" height="86"/>
+	<SubTexture name="OgreAttackingWest9.png" x="0" y="642" width="87" height="91"/>
+    <SubTexture name="OgreAttackingWest10.png" x="0" y="842" width="79" height="87"/>
+	<SubTexture name="OgreAttackingWest11.png" x="166" y="843" width="66" height="86"/>
+	<SubTexture name="OgreFallWest1.png" x="169" y="359" width="66" height="86"/>
+	<SubTexture name="OgreFallWest2.png" x="168" y="559" width="66" height="88"/>
+	<SubTexture name="OgreFallWest3.png" x="102" y="84" width="68" height="94"/>
+	<SubTexture name="OgreFallWest4.png" x="86" y="737" width="76" height="100"/>
+	<SubTexture name="OgreFallWest5.png" x="0" y="737" width="82" height="101"/>
+	<SubTexture name="OgreFallWest6.png" x="0" y="357" width="92" height="95"/>
+	<SubTexture name="OgreFallWest7.png" x="0" y="169" width="97" height="92"/>
+	<SubTexture name="OgreFallWest8.png" x="0" y="265" width="93" height="88"/>
+	<SubTexture name="OgreFallWest9.png" x="0" y="456" width="90" height="86"/>
+    <SubTexture name="OgreFallWest10.png" x="0" y="84" width="98" height="81"/>
+	<SubTexture name="OgreFallWest11.png" x="0" y="0" width="100" height="80"/>
+	<SubTexture name="OgreWalkingWest1.png" x="166" y="751" width="66" height="88"/>
+	<SubTexture name="OgreWalkingWest2.png" x="97" y="265" width="68" height="87"/>
+	<SubTexture name="OgreWalkingWest3.png" x="166" y="933" width="66" height="86"/>
+	<SubTexture name="OgreWalkingWest4.png" x="174" y="0" width="63" height="86"/>
+	<SubTexture name="OgreWalkingWest5.png" x="169" y="272" width="66" height="83"/>
+	<SubTexture name="OgreWalkingWest6.png" x="173" y="449" width="63" height="86"/>
+	<SubTexture name="OgreWalkingWest7.png" x="169" y="182" width="66" height="86"/>
+	<SubTexture name="OgreWalkingWest8.png" x="166" y="660" width="68" height="87"/>
+</TextureAtlas>

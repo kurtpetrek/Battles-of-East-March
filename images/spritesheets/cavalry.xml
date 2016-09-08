@@ -1,0 +1,27 @@
+<TextureAtlas imagePath="cavalry.png">
+	<SubTexture name="CavalryRunningSouth1.png" x="108" y="315" width="52" height="104"/>
+	<SubTexture name="CavalryRunningSouth2.png" x="108" y="210" width="52" height="103"/>
+	<SubTexture name="CavalryRunningSouth3.png" x="108" y="106" width="52" height="102"/>
+	<SubTexture name="CavalryRunningSouth4.png" x="108" y="0" width="52" height="104"/>
+	<SubTexture name="CavalryRunningSouth5.png" x="54" y="376" width="52" height="101"/>
+	<SubTexture name="CavalryRunningSouth6.png" x="54" y="278" width="52" height="96"/>
+	<SubTexture name="CavalryRunningSouth7.png" x="54" y="180" width="52" height="96"/>
+	<SubTexture name="CavalryRunningSouth8.png" x="54" y="82" width="52" height="96"/>
+	<SubTexture name="CavalryRunningSouth9.png" x="0" y="381" width="52" height="97"/>
+    <SubTexture name="CavalryRunningSouth10.png" x="0" y="283" width="52" height="96"/>
+	<SubTexture name="CavalryRunningSouth11.png" x="0" y="185" width="52" height="96"/>
+	<SubTexture name="CavalryRunningSouth12.png" x="0" y="82" width="52" height="101"/>
+	<SubTexture name="CavalryStandingEast.png" x="0" y="0" width="105" height="80"/>
+    <SubTexture name="CavalryRunningNorth01.png" x="216" y="365" width="51" height="115"/>
+	<SubTexture name="CavalryRunningNorth02.png" x="270" y="0" width="51" height="116"/>
+	<SubTexture name="CavalryRunningNorth03.png" x="269" y="371" width="51" height="117"/>
+	<SubTexture name="CavalryRunningNorth04.png" x="269" y="246" width="51" height="123"/>
+	<SubTexture name="CavalryRunningNorth05.png" x="216" y="0" width="52" height="122"/>
+	<SubTexture name="CavalryRunningNorth06.png" x="162" y="122" width="52" height="119"/>
+	<SubTexture name="CavalryRunningNorth07.png" x="162" y="0" width="52" height="120"/>
+	<SubTexture name="CavalryRunningNorth08.png" x="216" y="124" width="52" height="120"/>
+	<SubTexture name="CavalryRunningNorth09.png" x="162" y="362" width="52" height="117"/>
+	<SubTexture name="CavalryRunningNorth10.png" x="162" y="243" width="52" height="117"/>
+	<SubTexture name="CavalryRunningNorth11.png" x="216" y="246" width="51" height="117"/>
+	<SubTexture name="CavalryRunningNorth12.png" x="270" y="118" width="51" height="116"/>
+</TextureAtlas>

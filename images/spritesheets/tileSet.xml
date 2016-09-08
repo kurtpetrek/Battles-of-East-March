@@ -1,0 +1,22 @@
+<TextureAtlas imagePath="tileSet.png">
+	<SubTexture name="cactus1.png" x="112" y="208" width="32" height="36"/>
+	<SubTexture name="cactus2.png" x="77" y="208" width="33" height="36"/>
+	<SubTexture name="desert.png" x="52" y="104" width="50" height="50"/>
+	<SubTexture name="desertTexture1.png" x="104" y="0" width="50" height="50"/>
+	<SubTexture name="desertTexture2.png" x="104" y="52" width="50" height="50"/>
+	<SubTexture name="grass.png" x="104" y="156" width="50" height="50"/>
+	<SubTexture name="grassWithSand.png" x="104" y="104" width="50" height="50"/>
+	<SubTexture name="grassWithSoil.png" x="52" y="52" width="50" height="50"/>
+	<SubTexture name="mud.png" x="52" y="0" width="50" height="50"/>
+	<SubTexture name="mudTexture1.png" x="52" y="156" width="50" height="50"/>
+	<SubTexture name="mudTexture2.png" x="0" y="156" width="50" height="50"/>
+	<SubTexture name="mushroom.png" x="156" y="106" width="17" height="21"/>
+	<SubTexture name="shrub1.png" x="156" y="0" width="46" height="49"/>
+	<SubTexture name="shrub2.png" x="146" y="208" width="26" height="34"/>
+	<SubTexture name="shrub3.png" x="156" y="51" width="41" height="53"/>
+	<SubTexture name="shrub4.png" x="40" y="208" width="35" height="39"/>
+	<SubTexture name="shrub5.png" x="0" y="208" width="38" height="42"/>
+	<SubTexture name="snow.png" x="0" y="104" width="50" height="50"/>
+	<SubTexture name="snowTexture1.png" x="0" y="52" width="50" height="50"/>
+	<SubTexture name="snowTexture2.png" x="0" y="0" width="50" height="50"/>
+</TextureAtlas>

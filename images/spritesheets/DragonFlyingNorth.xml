@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="DragonFlyingNorth.png">
+	<SubTexture name="DragonFlyingNorth01.png" x="438" y="0" width="196" height="146"/>
+	<SubTexture name="DragonFlyingNorth02.png" x="436" y="298" width="210" height="146"/>
+	<SubTexture name="DragonFlyingNorth03.png" x="220" y="298" width="214" height="148"/>
+	<SubTexture name="DragonFlyingNorth04.png" x="0" y="0" width="222" height="148"/>
+	<SubTexture name="DragonFlyingNorth05.png" x="224" y="0" width="212" height="146"/>
+	<SubTexture name="DragonFlyingNorth06.png" x="222" y="150" width="214" height="146"/>
+	<SubTexture name="DragonFlyingNorth07.png" x="0" y="298" width="218" height="148"/>
+	<SubTexture name="DragonFlyingNorth08.png" x="0" y="150" width="220" height="146"/>
+</TextureAtlas>

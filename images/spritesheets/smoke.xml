@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="smoke.png">
+	<SubTexture name="blackSmoke00.png" x="303" y="141" width="137" height="127"/>
+	<SubTexture name="blackSmoke01.png" x="0" y="0" width="150" height="137"/>
+	<SubTexture name="blackSmoke02.png" x="153" y="141" width="146" height="129"/>
+	<SubTexture name="blackSmoke03.png" x="592" y="307" width="132" height="138"/>
+	<SubTexture name="blackSmoke04.png" x="154" y="0" width="146" height="137"/>
+	<SubTexture name="blackSmoke05.png" x="304" y="0" width="143" height="131"/>
+	<SubTexture name="blackSmoke06.png" x="592" y="150" width="138" height="153"/>
+	<SubTexture name="blackSmoke07.png" x="0" y="141" width="149" height="149"/>
+	<SubTexture name="blackSmoke08.png" x="300" y="274" width="143" height="156"/>
+	<SubTexture name="blackSmoke09.png" x="728" y="307" width="128" height="136"/>
+	<SubTexture name="blackSmoke10.png" x="447" y="276" width="141" height="139"/>
+	<SubTexture name="blackSmoke11.png" x="0" y="294" width="149" height="123"/>
+	<SubTexture name="blackSmoke12.png" x="447" y="135" width="141" height="137"/>
+	<SubTexture name="blackSmoke13.png" x="592" y="0" width="140" height="146"/>
+	<SubTexture name="blackSmoke14.png" x="153" y="274" width="143" height="152"/>
+</TextureAtlas>

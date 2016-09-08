@@ -1,0 +1,32 @@
+<TextureAtlas imagePath="shadowKnight.png">
+	<SubTexture name="ShadowKnightAttackWest1.png" x="195" y="131" width="53" height="63"/>
+	<SubTexture name="ShadowKnightAttackWest2.png" x="129" y="441" width="58" height="64"/>
+	<SubTexture name="ShadowKnightAttackWest3.png" x="137" y="0" width="57" height="64"/>
+	<SubTexture name="ShadowKnightAttackWest4.png" x="250" y="0" width="48" height="70"/>
+	<SubTexture name="ShadowKnightAttackWest5.png" x="196" y="196" width="52" height="72"/>
+	<SubTexture name="ShadowKnightAttackWest6.png" x="194" y="271" width="54" height="68"/>
+	<SubTexture name="ShadowKnightAttackWest7.png" x="76" y="66" width="59" height="68"/>
+	<SubTexture name="ShadowKnightAttackWest8.png" x="245" y="341" width="49" height="77"/>
+	<SubTexture name="ShadowKnightAttackWest9.png" x="195" y="66" width="53" height="63"/>
+    <SubTexture name="ShadowKnightAttackWest10.png" x="75" y="254" width="61" height="61"/>
+	<SubTexture name="ShadowKnightAttackWest11.png" x="65" y="423" width="62" height="60"/>
+	<SubTexture name="ShadowKnightAttackWest12.png" x="129" y="379" width="58" height="60"/>
+	<SubTexture name="ShadowKnightAttackWest13.png" x="189" y="445" width="53" height="63"/>
+	<SubTexture name="ShadowKnightFallWest1.png" x="244" y="445" width="50" height="65"/>
+	<SubTexture name="ShadowKnightFallWest2.png" x="136" y="136" width="57" height="63"/>
+	<SubTexture name="ShadowKnightFallWest3.png" x="0" y="66" width="74" height="61"/>
+	<SubTexture name="ShadowKnightFallWest4.png" x="0" y="0" width="75" height="64"/>
+	<SubTexture name="ShadowKnightFallWest5.png" x="0" y="129" width="74" height="63"/>
+	<SubTexture name="ShadowKnightFallWest6.png" x="0" y="194" width="74" height="58"/>
+	<SubTexture name="ShadowKnightFallWest7.png" x="0" y="254" width="73" height="57"/>
+	<SubTexture name="ShadowKnightFallWest8.png" x="0" y="313" width="73" height="56"/>
+	<SubTexture name="ShadowKnightFallWest9.png" x="0" y="371" width="70" height="50"/>
+	<SubTexture name="ShadowKnightRunningWest1.png" x="137" y="66" width="56" height="58"/>
+	<SubTexture name="ShadowKnightRunningWest2.png" x="136" y="317" width="56" height="60"/>
+	<SubTexture name="ShadowKnightRunningWest3.png" x="77" y="0" width="58" height="62"/>
+	<SubTexture name="ShadowKnightRunningWest4.png" x="189" y="379" width="54" height="64"/>
+	<SubTexture name="ShadowKnightRunningWest5.png" x="138" y="201" width="56" height="68"/>
+	<SubTexture name="ShadowKnightRunningWest6.png" x="76" y="136" width="58" height="63"/>
+	<SubTexture name="ShadowKnightRunningWest7.png" x="0" y="423" width="63" height="61"/>
+	<SubTexture name="ShadowKnightRunningWest8.png" x="75" y="317" width="59" height="60"/>
+</TextureAtlas>

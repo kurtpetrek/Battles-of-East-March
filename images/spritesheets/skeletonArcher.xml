@@ -1,0 +1,32 @@
+<TextureAtlas imagePath="skeletonArcher.png">
+	<SubTexture name="SkeletonArcherFallingWest1.png" x="105" y="433" width="46" height="58"/>
+	<SubTexture name="SkeletonArcherFallingWest2.png" x="61" y="0" width="47" height="56"/>
+	<SubTexture name="SkeletonArcherFallingWest3.png" x="56" y="317" width="50" height="53"/>
+	<SubTexture name="SkeletonArcherFallingWest4.png" x="0" y="377" width="54" height="49"/>
+	<SubTexture name="SkeletonArcherFallingWest5.png" x="0" y="211" width="56" height="44"/>
+	<SubTexture name="SkeletonArcherFallingWest6.png" x="0" y="134" width="58" height="40"/>
+	<SubTexture name="SkeletonArcherFallingWest7.png" x="0" y="0" width="59" height="36"/>
+	<SubTexture name="SkeletonArcherFallingWest8.png" x="0" y="38" width="59" height="34"/>
+	<SubTexture name="SkeletonArcherFallingWest9.png" x="0" y="176" width="58" height="33"/>
+	<SubTexture name="SkeletonArcherShootingWest1.png" x="105" y="372" width="47" height="59"/>
+	<SubTexture name="SkeletonArcherShootingWest2.png" x="110" y="134" width="46" height="59"/>
+	<SubTexture name="SkeletonArcherShootingWest3.png" x="108" y="273" width="46" height="59"/>
+	<SubTexture name="SkeletonArcherShootingWest4.png" x="60" y="74" width="49" height="58"/>
+	<SubTexture name="SkeletonArcherShootingWest5.png" x="0" y="428" width="51" height="58"/>
+	<SubTexture name="SkeletonArcherShootingWest6.png" x="53" y="428" width="50" height="58"/>
+	<SubTexture name="SkeletonArcherShootingWest7.png" x="0" y="74" width="58" height="58"/>
+	<SubTexture name="SkeletonArcherShootingWest8.png" x="0" y="317" width="54" height="58"/>
+	<SubTexture name="SkeletonArcherShootingWest9.png" x="58" y="211" width="50" height="60"/>
+    <SubTexture name="SkeletonArcherShootingWest10.png" x="111" y="61" width="45" height="59"/>
+	<SubTexture name="SkeletonArcherShootingWest11.png" x="158" y="121" width="40" height="58"/>
+	<SubTexture name="SkeletonArcherShootingWest12.png" x="158" y="61" width="42" height="58"/>
+	<SubTexture name="SkeletonArcherShootingWest13.png" x="60" y="134" width="48" height="59"/>
+	<SubTexture name="SkeletonArcherWalkingWest1.png" x="0" y="257" width="55" height="58"/>
+	<SubTexture name="SkeletonArcherWalkingWest2.png" x="110" y="195" width="45" height="59"/>
+	<SubTexture name="SkeletonArcherWalkingWest3.png" x="157" y="195" width="44" height="59"/>
+	<SubTexture name="SkeletonArcherWalkingWest4.png" x="154" y="334" width="44" height="60"/>
+	<SubTexture name="SkeletonArcherWalkingWest5.png" x="156" y="256" width="44" height="61"/>
+	<SubTexture name="SkeletonArcherWalkingWest6.png" x="157" y="0" width="44" height="59"/>
+	<SubTexture name="SkeletonArcherWalkingWest7.png" x="153" y="433" width="44" height="59"/>
+	<SubTexture name="SkeletonArcherWalkingWest8.png" x="110" y="0" width="45" height="59"/>
+</TextureAtlas>
